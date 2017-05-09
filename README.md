@@ -1,6 +1,7 @@
 # Creating real cross-platform applications with Angular, Cordova & Electron
 
 This sample was built for the [Hamburg AngularJS Meetup](https://www.meetup.com/Hamburg-AngularJS-Meetup/events/234414340/) and was _forked_ from [here](https://github.com/thinktecture/windows-developer-cross-platform-article-series).
+Slides for the talk are on [Speaker Deck](https://speakerdeck.com/manuelrauber/creating-real-cross-platform-applications-with-angular-cordova-and-electron).
 
 ## Setup
 
